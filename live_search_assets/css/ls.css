@@ -1,0 +1,22 @@
+#ls_table table
+{
+	width:100%;
+}
+#ls_table td
+{
+	white-space:nowrap;
+}
+#ls_table th
+{
+	background-color:blue;
+	color:white;
+}
+#ls_result
+{
+	overflow-x:none;
+	overflow-y:scroll;
+}
+#ls_table table,#ls_table td,#ls_table th
+{
+	border:1px solid black;
+}
